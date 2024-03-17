@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **Html, CSS, JS, Personal Finance.**
+- 💬 Ask me about **Html, CSS, JS, Personal Finance, Artificial Intellgence, GANS, ML**
 
 - 📫 How to reach me **Mohammedobaidraza4@gmail.com**
 
