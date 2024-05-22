@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **Leen**
+- 🔭 I’m currently working on **GANS**
 
-- 🌱 I’m currently learning **IntelliJ and other frameworks**
+- 🌱 I’m currently learning **Ai & ML**
 
 - 👯 I’m looking to collaborate on **GrowthPirates.com**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **LLMS**
 
 - 💬 Ask me about **Html, CSS, JS, Personal Finance, Artificial Intellgence, GANS, ML**
 
