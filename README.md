@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ai & ML**
 
-- 👯 I’m looking to collaborate on **GrowthPirates.com**
+- 👯 I’m looking to collaborate on **Open-Sources Projects**
 
 - 🤝 I’m looking for help with **LLMS**
 
