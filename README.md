@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Mohammedobaidraza4@gmail.com**
 
-- 📄 Know about my experiences [View File on Google Drive](https://drive.google.com/file/d/1orcuuDDv5HOrGD7ukELHhBE1w8c0cJY0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1orcuuDDv5HOrGD7ukELHhBE1w8c0cJY0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
