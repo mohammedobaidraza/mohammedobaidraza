@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Obaid Raza</h1>
+<h1 align="center">Hi 👋, I am Obaid Raza</h1>
 <h3 align="center">Software Developer</h3>
 
 
 
-- 🔭 I’m currently working on **GANS**
+- 🔭 Currently working on **LLM's**
 
-- 🌱 I’m currently learning **Ai & ML**
+- 🌱 Currently learning **GEN Ai**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects**
+- 👯 Looking to collaborate on **Open-Source Projects**
 
-- 🤝 I’m looking for help with **LLMS**
+- 🤝 Looking for help with **Fixing Hallucination in LLM's**
 
-- 💬 Ask me about **Html, CSS, JS, Personal Finance, Artificial Intellgence, GANS, ML**
+- 💬 Ask me about **Artificial Intellgence, GANS, ML, LLM's, Html, CSS, JS, Personal Finance**
 
-- 📫 How to reach me **Mohammedobaidraza4@gmail.com**
+- 📫 How to reach me **Mohammedobaidraza4@gmail.com** 
+  
+- <a href="https://www.linkedin.com/in/obaidraza/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+- 📄 Know about my experiences through [Linktree](https://linktr.ee/mohammedobaidraza)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1orcuuDDv5HOrGD7ukELHhBE1w8c0cJY0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -33,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaidraza111&show_icons=true&locale=en" alt="obaidraza111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaidraza111&" alt="obaidraza111" /></p>
+
+
+
+
