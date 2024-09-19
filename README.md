@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 
-
+---
 - 🔭 Currently working on **LLM's**
 
 - 🌱 Currently learning **GEN Ai**
@@ -13,13 +13,24 @@
 
 - 💬 Ask me about **Artificial Intellgence, GANS, ML, LLM's, Html, CSS, JS, Personal Finance**
 
-- 📫 How to reach me **Mohammedobaidraza4@gmail.com** 
+- 📫 How to reach me
+- <div style="display: flex; gap: 10px;">
+  <a href="mailto:mohammedobaidraza4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   
-- <a href="https://www.linkedin.com/in/obaidraza/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-- 📄 Know about my experiences through [Linktree](https://linktr.ee/mohammedobaidraza)
+  <a href="https://github.com/mohammedobaidraza" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
+  <a href="https://mohammedobaidraza.github.io/portfolioh/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  
+  <a href="https://linktr.ee/mohammedobaidraza" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-%2300FF00?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+  </a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
