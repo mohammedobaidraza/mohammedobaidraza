@@ -5,7 +5,7 @@
 ---
 - 🔭 Currently working on **LLM's**
 
-- 🌱 Currently learning **GEN Ai**
+- 🌱 Currently learning **GEN Ai, RAG & Ai Agents**
 
 - 👯 Looking to collaborate on **Open-Source Projects**
 
