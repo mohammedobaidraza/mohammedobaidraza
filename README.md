@@ -3,17 +3,15 @@
 
 
 ---
-- 🔭 Currently working on **Computer Vision**
+-  Currently working on **Computer Vision**
 
-- 🌱 Currently learning **GEN Ai, RAG & Ai Agents**
+-  Currently learning **GEN Ai, RAG & Ai Agents**
 
-- 👯 Looking to collaborate on **Open-Source Projects**
+-  Looking to collaborate on **Open-Source Projects**
 
-- 🤝 Looking for help with **Fixing Hallucination in LLM's**
+-  Looking for help with **Fixing Hallucination in LLM's**
 
-- 💬 Ask me about **Artificial Intellgence, GANS, ML, LLM's, Html, CSS, JS, Personal Finance**
-
-- 📫 How to reach me
+-  How to reach me
 - <div style="display: flex; gap: 10px;">
   <a href="mailto:mohammedobaidraza4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
