@@ -3,7 +3,7 @@
 
 
 ---
-- 🔭 Currently working on **LLM's**
+- 🔭 Currently working on **Computer Vision**
 
 - 🌱 Currently learning **GEN Ai, RAG & Ai Agents**
 
