@@ -5,7 +5,7 @@
 ---
 -  Currently working on **Computer Vision**
 
--  Currently learning **GEN Ai, RAG & Ai Agents**
+-  Currently learning **GEN Ai, RAG & Ai Agents** 
 
 -  Looking to collaborate on **Open-Source Projects**
 
