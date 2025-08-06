@@ -2,7 +2,7 @@
 <h3 align="center">Developer</h3>
 
 
----
+--- 
 -  Currently working on **Computer Vision**
 
 -  Currently learning **GEN Ai, RAG & Ai Agents** 
